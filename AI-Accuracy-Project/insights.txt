@@ -1,0 +1,4 @@
+AI accuracy varies by region. 
+Error increased over time(drift).
+Some products hard to predict.
+Model needs retaining.
